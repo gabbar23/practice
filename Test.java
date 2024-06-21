@@ -99,6 +99,10 @@ final class FinalClass {
         System.out.println("This is a final class.");
         System.out.println("This is a final class.");
         System.out.println("This is a final class.");
+        System.out.println("This is a final class.");
+        System.out.println("This is a final class nfjafgb.");
+
+
 
         // Title
 
