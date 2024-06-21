@@ -97,6 +97,7 @@
 final class FinalClass {
     void display() {
         System.out.println("This is a final class.");
+        System.out.println("This is a final class.");
     }
 }
 
