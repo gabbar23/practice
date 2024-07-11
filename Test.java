@@ -95,7 +95,7 @@
 
 
 final class FinalClass {
-    void display() {
+    void dddisplay() {
         System.out.println("This is a final class.");
         System.out.println("This is a final class.");
         System.out.println("This is a final class.");
@@ -125,7 +125,7 @@ final class FinalClass {
 public class Test extends FinalClass {
     public static void main(String[] args) {
         FinalClass obj = new FinalClass();
-        obj.display(); // Output: This is a final class.
+        obj.Display(); // Output: This is a final class.
     }
 }
 
